@@ -4,7 +4,7 @@ This is the origanal code for the app version of Twoblade.
 Credits;
 
 pmrg2022 / pmrg2022#twoblade.com 
-for: most of the appp
+for: most of the app
 
 ChatGPT
 for: making the parts I can't do.
